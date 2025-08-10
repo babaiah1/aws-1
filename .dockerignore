@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+.wheel
+.wheels
+.wheelhouse
+.git
+.gitignore
+.env
+.vscode
+tests
