@@ -50,3 +50,7 @@ On my computer, I opened the terminal and went to where my PEM file was:
 cd ~/Downloads
 chmod 400 my-key.pem
 ssh -i "my-key.pem" ec2-user@<my-ec2-public-ip>
+
+```
+## Security Scanning
+This project includes a Trivy vulnerability scan for educational purposes. The scan detected Debian 12 base image vulnerabilities and outdated Python dependencies (Werkzeug, Gunicorn, Setuptools). Work is ongoing to address these issues.
