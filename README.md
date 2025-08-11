@@ -4,7 +4,7 @@
 
 ## About This Project
 
-This is a project I made to show that I can set up a cloud server, install all the tools needed, run a web app using Docker, and then check it for security problems using Trivy.  
+This project is about setting up a cloud server, installing all the tools needed, running a web app using Docker, and then check it for security problems using Trivy.  
 I did this completely from scratch on an AWS EC2 server running Amazon Linux 2023.
 
 ---
